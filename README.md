@@ -5,3 +5,4 @@
 
 ### add https://pypi.org/project/pyHook/ (for windows)
 
+maybe even better https://github.com/boppreh/keyboard
